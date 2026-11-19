@@ -1,2 +1,3 @@
 # b2media-research-feed
-Weekly content research feed, a digest of public quetions and topics, read by an automated content agent.
+
+Weekly content research feed read by an automated content agent.
